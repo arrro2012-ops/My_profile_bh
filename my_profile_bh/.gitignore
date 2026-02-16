@@ -1,0 +1,22 @@
+# 시스템 파일 (Mac에서 자동 생성되는 파일)
+.DS_Store
+Thumbs.db
+
+# 에디터 설정 파일
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code 설정 파일 (개인 설정이므로 제외)
+.claude/
+
+# 환경 변수 파일 (민감한 정보 포함)
+.env
+.env.local
+
+# Node.js (나중에 사용할 수도 있으므로 미리 설정)
+node_modules/
+npm-debug.log
+yarn-error.log
